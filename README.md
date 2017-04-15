@@ -14,12 +14,12 @@ The result of experiment:
 
             sort()                insertion_sort()
             
-1000:       0.000942 seconds      0.03584 seconds
+1000:　　　　0.000942 seconds　　　0.03584 seconds
 
-10000:      0.010969 seconds      2.60395 seconds
+10000:　　　0.010969 second　　　　2.60395 seconds
 
-100000:     0.138725 seconds      215.297 seconds
+100000:　　 0.138725 seconds　　　 215.297 seconds
 
-1000000:    1.055205 seconds      It runs for a long long long time.
+1000000:　　1.055205 seconds　　　 It runs for a long long long time.
 
 Time complexity of sort() is O(n log n) while it of insertion_sort() is O(n^2). Accroding to result, we can find that O(n log n) spends less time than O(n^2). The time gap of two becomes larger as n increasing.
