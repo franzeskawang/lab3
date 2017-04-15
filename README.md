@@ -18,7 +18,7 @@ The result of experiment:
 
 10000:      0.010969 seconds      2.60395 seconds
 
-100000:     0.138725 seconds      215.297 seconds
+100000:     0.138725 seconds      215.297 seconds
 
 1000000:    1.055205 seconds      It runs for a long long long time.
 
